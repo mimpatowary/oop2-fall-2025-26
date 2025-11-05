@@ -1,0 +1,15 @@
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/bin/Debug/net7.0/Calculator
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Project/Calculator/obj/Debug/net7.0/ref/Calculator.dll
