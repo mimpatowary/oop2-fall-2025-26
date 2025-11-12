@@ -1,0 +1,15 @@
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.csproj.AssemblyReference.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.AssemblyInfoInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.AssemblyInfo.cs
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/bin/Debug/net7.0/HouseExecrise
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/bin/Debug/net7.0/HouseExecrise.deps.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/bin/Debug/net7.0/HouseExecrise.runtimeconfig.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/bin/Debug/net7.0/HouseExecrise.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/bin/Debug/net7.0/HouseExecrise.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/refint/HouseExecrise.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/HouseExecrise.genruntimeconfig.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/HouseExecrise/obj/Debug/net7.0/ref/HouseExecrise.dll
