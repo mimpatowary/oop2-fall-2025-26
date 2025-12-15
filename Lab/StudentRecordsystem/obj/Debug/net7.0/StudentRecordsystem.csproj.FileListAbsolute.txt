@@ -1,0 +1,15 @@
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/bin/Debug/net7.0/StudentRecordsystem
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/bin/Debug/net7.0/StudentRecordsystem.deps.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/bin/Debug/net7.0/StudentRecordsystem.runtimeconfig.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/bin/Debug/net7.0/StudentRecordsystem.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/bin/Debug/net7.0/StudentRecordsystem.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.csproj.AssemblyReference.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.AssemblyInfoInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.AssemblyInfo.cs
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/refint/StudentRecordsystem.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/StudentRecordsystem.genruntimeconfig.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/StudentRecordsystem/obj/Debug/net7.0/ref/StudentRecordsystem.dll

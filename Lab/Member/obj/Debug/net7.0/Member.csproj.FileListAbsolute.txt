@@ -1,0 +1,15 @@
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/bin/Debug/net7.0/Member
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/bin/Debug/net7.0/Member.deps.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/bin/Debug/net7.0/Member.runtimeconfig.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/bin/Debug/net7.0/Member.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/bin/Debug/net7.0/Member.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.csproj.AssemblyReference.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.AssemblyInfoInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.AssemblyInfo.cs
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/refint/Member.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/Member.genruntimeconfig.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Member/obj/Debug/net7.0/ref/Member.dll

@@ -1,0 +1,15 @@
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/bin/Debug/net7.0/Employee
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/bin/Debug/net7.0/Employee.deps.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/bin/Debug/net7.0/Employee.runtimeconfig.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/bin/Debug/net7.0/Employee.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/bin/Debug/net7.0/Employee.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.csproj.AssemblyReference.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.AssemblyInfoInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.AssemblyInfo.cs
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/refint/Employee.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/Employee.genruntimeconfig.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Employee/obj/Debug/net7.0/ref/Employee.dll

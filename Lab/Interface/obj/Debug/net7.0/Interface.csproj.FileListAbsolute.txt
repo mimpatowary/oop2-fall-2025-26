@@ -1,0 +1,15 @@
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/bin/Debug/net7.0/Interface
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/bin/Debug/net7.0/Interface.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Interface/obj/Debug/net7.0/ref/Interface.dll
