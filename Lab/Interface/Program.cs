@@ -1,5 +1,4 @@
 ﻿using System;
-
 interface IPrintable
 
 {
@@ -11,15 +10,13 @@ interface ISerializable
 {
     void Save();
 }
-
-
 class Report : IPrintable, ISerializable
 
 {
     public void Print()
     {
 
-        Console.WriteLine("painting report...");
+        Console.WriteLine("printing report...");
 
     }
     public void Save()
@@ -37,7 +34,6 @@ class Program
     static void Main()
 
     {
-
         Report report = new Report();
 
         report.Print();

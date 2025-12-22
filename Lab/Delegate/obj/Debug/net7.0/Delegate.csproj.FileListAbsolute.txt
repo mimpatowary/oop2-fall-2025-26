@@ -1,0 +1,15 @@
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/bin/Debug/net7.0/Delegate
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/bin/Debug/net7.0/Delegate.deps.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/bin/Debug/net7.0/Delegate.runtimeconfig.json
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/bin/Debug/net7.0/Delegate.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/bin/Debug/net7.0/Delegate.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.csproj.AssemblyReference.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.AssemblyInfoInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.AssemblyInfo.cs
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/refint/Delegate.dll
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.pdb
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/Delegate.genruntimeconfig.cache
+/Users/mac/Documents/Developer/oop2-fall-2025-26/Lab/Delegate/obj/Debug/net7.0/ref/Delegate.dll
